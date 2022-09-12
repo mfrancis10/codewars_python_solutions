@@ -29,7 +29,7 @@ def accum(s):
 
 ---
 
-### Solution
+### Solution:  very clever
 
 
 ```python
